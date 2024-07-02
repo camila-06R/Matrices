@@ -1,8 +1,9 @@
+
 Matrices
 
 1.Imprimir los 4 elementos de la esquina. https://github.com/camila-06R/Matrices/blob/main/imprimir-4-esquinas.zip
 
-2.Imprimir los elementos pares de la matriz. 
+2.Imprimir los elementos pares de la matriz. https://github.com/camila-06R/Matrices/blob/main/imprimir-e.-pares.zip
 
 3.Imprimir los elementos impares de la matriz.
 
