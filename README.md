@@ -1,5 +1,5 @@
 
-Matrices
+MATRICES
 
 1.Imprimir los 4 elementos de la esquina. https://github.com/camila-06R/Matrices/blob/main/MATRICES/Imprimir%204%20esquinas.c
 
