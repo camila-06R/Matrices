@@ -15,29 +15,27 @@ int main() {
         {9, 10, 11, 12},
         {13, 14, 15, 16}
     };
-    int matriz2[4][4] = {
-        {16, 15, 14, 13},
-        {12, 11, 10, 9},
-        {8, 7, 6, 5},
-        {4, 3, 2, 1}
-    };
-    int producto[4][4] = {0};
+    // utilizamos sizeof para el tamaño de una estructura 
+    Int filas = sizeof(matriz) / sizeof(matriz[0]);
 
-    for (int i = 0; i < 4; i++) {
-        for (int j = 0; j < 4; j++) {
-            for (int k = 0; k < 4; k++) {
-                producto[i][j] += matriz1[i][k] * matriz2[k][j];
-            }
-        }
-    }
+    Int columnas = sizeof(matriz[0]) / sizeof(matriz[0][0]);
 
-    printf("Producto de matrices:\n");
-    for (int i = 0; i < 4; i++) {
-        for (int j = 0; j < 4; j++) {
-            printf("%d ", producto[i][j]);
-        }
-        printf("\n");
-    }
 
-    return 0;
+
+    
+///Imprimimos las 4 esquinas 
+    Printf(“Las 4 esquinas de la matriz son:\n”);
+
+    Printf(“Esquina superior izquierda: %d\n”, matriz[0][0]);
+
+    Printf(“Esquina superior derecha: %d\n”, matriz[0][columnas – 1]);
+
+    Printf(“Esquina inferior izquierda: %d\n”, matriz[filas – 1][0]);
+
+    Printf(“Esquina inferior derecha: %d\n”, matriz[filas – 1][columnas – 1]);
+
+
+
+    Return 0;
+
 }
