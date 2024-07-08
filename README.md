@@ -1,5 +1,4 @@
-
-MATRICES
+# MATRICES
 
 1.Imprimir los 4 elementos de la esquina. https://github.com/camila-06R/Matrices/blob/main/MATRICES/Imprimir%204%20esquinas.c
 
@@ -26,3 +25,7 @@ MATRICES
 12.División de matrices. https://github.com/camila-06R/Matrices/blob/main/MATRICES/Division%20Matrices.c
 
 13.Potencia de matrices. https://github.com/camila-06R/Matrices/blob/main/MATRICES/Potencia%20Matrices.c
+
+Metodo de insercion 
+Metodo burbuja 
+Metodo mezcla
