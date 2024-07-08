@@ -26,6 +26,6 @@
 
 13.Potencia de matrices. https://github.com/camila-06R/Matrices/blob/main/MATRICES/Potencia%20Matrices.c
 
-Metodo de insercion 
-Metodo burbuja 
-Metodo mezcla
+- Metodo de insercion 
+- Metodo burbuja 
+- Metodo mezcla
