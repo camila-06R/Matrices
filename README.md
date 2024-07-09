@@ -29,5 +29,6 @@
 
 - Metodo burbuja https://github.com/camila-06R/Matrices/blob/main/metodo%20burbuja.c
 
-- Cartas
+- Cartas https://github.com/camila-06R/Matrices/blob/main/cartas.zip
+  
 
